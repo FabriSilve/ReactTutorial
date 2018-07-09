@@ -1,3 +1,8 @@
+This is the official React Tutorial to learn the basic of this framework<br>
+
+You could see the progress of my work in the build folder [here](https://FabriSilve.github.io/ReactTutorial/build)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
