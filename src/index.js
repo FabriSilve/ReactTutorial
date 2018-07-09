@@ -105,6 +105,6 @@ function calculateWinner(squares) {
 }
 
 ReactDOM.render(
-  <Game />,
+  <Router basename={process.env.PUBLIC_URL}><Game /></Router>,
   document.getElementById('root')
 );
